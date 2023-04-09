@@ -1,0 +1,15 @@
+D:\Weekendassignmentone\Weekendassignmentone\bin\Debug\net6.0\Weekendassignmentone.exe
+D:\Weekendassignmentone\Weekendassignmentone\bin\Debug\net6.0\Weekendassignmentone.deps.json
+D:\Weekendassignmentone\Weekendassignmentone\bin\Debug\net6.0\Weekendassignmentone.runtimeconfig.json
+D:\Weekendassignmentone\Weekendassignmentone\bin\Debug\net6.0\Weekendassignmentone.dll
+D:\Weekendassignmentone\Weekendassignmentone\bin\Debug\net6.0\Weekendassignmentone.pdb
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.csproj.AssemblyReference.cache
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.AssemblyInfoInputs.cache
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.AssemblyInfo.cs
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.csproj.CoreCompileInputs.cache
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.dll
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\refint\Weekendassignmentone.dll
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.pdb
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\Weekendassignmentone.genruntimeconfig.cache
+D:\Weekendassignmentone\Weekendassignmentone\obj\Debug\net6.0\ref\Weekendassignmentone.dll
