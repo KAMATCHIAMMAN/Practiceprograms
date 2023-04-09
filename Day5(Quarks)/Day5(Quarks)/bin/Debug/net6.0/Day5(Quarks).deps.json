@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day5(Quarks)/1.0.0": {
+        "runtime": {
+          "Day5(Quarks).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day5(Quarks)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

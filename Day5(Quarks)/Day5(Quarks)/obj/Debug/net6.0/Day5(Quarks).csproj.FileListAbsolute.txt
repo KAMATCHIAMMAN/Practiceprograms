@@ -1,0 +1,15 @@
+D:\Day5(Quarks)\Day5(Quarks)\bin\Debug\net6.0\Day5(Quarks).exe
+D:\Day5(Quarks)\Day5(Quarks)\bin\Debug\net6.0\Day5(Quarks).deps.json
+D:\Day5(Quarks)\Day5(Quarks)\bin\Debug\net6.0\Day5(Quarks).runtimeconfig.json
+D:\Day5(Quarks)\Day5(Quarks)\bin\Debug\net6.0\Day5(Quarks).dll
+D:\Day5(Quarks)\Day5(Quarks)\bin\Debug\net6.0\Day5(Quarks).pdb
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).csproj.AssemblyReference.cache
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).GeneratedMSBuildEditorConfig.editorconfig
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).AssemblyInfoInputs.cache
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).AssemblyInfo.cs
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).csproj.CoreCompileInputs.cache
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).dll
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\refint\Day5(Quarks).dll
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).pdb
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\Day5(Quarks).genruntimeconfig.cache
+D:\Day5(Quarks)\Day5(Quarks)\obj\Debug\net6.0\ref\Day5(Quarks).dll
