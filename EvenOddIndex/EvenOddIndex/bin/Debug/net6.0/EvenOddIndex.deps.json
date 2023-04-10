@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EvenOddIndex/1.0.0": {
+        "runtime": {
+          "EvenOddIndex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvenOddIndex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

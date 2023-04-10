@@ -1,0 +1,15 @@
+D:\EvenOddIndex\EvenOddIndex\bin\Debug\net6.0\EvenOddIndex.exe
+D:\EvenOddIndex\EvenOddIndex\bin\Debug\net6.0\EvenOddIndex.deps.json
+D:\EvenOddIndex\EvenOddIndex\bin\Debug\net6.0\EvenOddIndex.runtimeconfig.json
+D:\EvenOddIndex\EvenOddIndex\bin\Debug\net6.0\EvenOddIndex.dll
+D:\EvenOddIndex\EvenOddIndex\bin\Debug\net6.0\EvenOddIndex.pdb
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.csproj.AssemblyReference.cache
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.AssemblyInfoInputs.cache
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.AssemblyInfo.cs
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.csproj.CoreCompileInputs.cache
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.dll
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\refint\EvenOddIndex.dll
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.pdb
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\EvenOddIndex.genruntimeconfig.cache
+D:\EvenOddIndex\EvenOddIndex\obj\Debug\net6.0\ref\EvenOddIndex.dll
