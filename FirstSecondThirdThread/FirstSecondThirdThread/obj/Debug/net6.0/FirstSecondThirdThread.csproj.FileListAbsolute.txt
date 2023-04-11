@@ -1,0 +1,15 @@
+D:\FirstSecondThirdThread\FirstSecondThirdThread\bin\Debug\net6.0\FirstSecondThirdThread.exe
+D:\FirstSecondThirdThread\FirstSecondThirdThread\bin\Debug\net6.0\FirstSecondThirdThread.deps.json
+D:\FirstSecondThirdThread\FirstSecondThirdThread\bin\Debug\net6.0\FirstSecondThirdThread.runtimeconfig.json
+D:\FirstSecondThirdThread\FirstSecondThirdThread\bin\Debug\net6.0\FirstSecondThirdThread.dll
+D:\FirstSecondThirdThread\FirstSecondThirdThread\bin\Debug\net6.0\FirstSecondThirdThread.pdb
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.csproj.AssemblyReference.cache
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.AssemblyInfoInputs.cache
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.AssemblyInfo.cs
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.csproj.CoreCompileInputs.cache
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.dll
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\refint\FirstSecondThirdThread.dll
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.pdb
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\FirstSecondThirdThread.genruntimeconfig.cache
+D:\FirstSecondThirdThread\FirstSecondThirdThread\obj\Debug\net6.0\ref\FirstSecondThirdThread.dll
