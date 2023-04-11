@@ -1,0 +1,15 @@
+D:\GenericMethodExample\GenericMethodExample\bin\Debug\net6.0\GenericMethodExample.exe
+D:\GenericMethodExample\GenericMethodExample\bin\Debug\net6.0\GenericMethodExample.deps.json
+D:\GenericMethodExample\GenericMethodExample\bin\Debug\net6.0\GenericMethodExample.runtimeconfig.json
+D:\GenericMethodExample\GenericMethodExample\bin\Debug\net6.0\GenericMethodExample.dll
+D:\GenericMethodExample\GenericMethodExample\bin\Debug\net6.0\GenericMethodExample.pdb
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.csproj.AssemblyReference.cache
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.AssemblyInfoInputs.cache
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.AssemblyInfo.cs
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.csproj.CoreCompileInputs.cache
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.dll
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\refint\GenericMethodExample.dll
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.pdb
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\GenericMethodExample.genruntimeconfig.cache
+D:\GenericMethodExample\GenericMethodExample\obj\Debug\net6.0\ref\GenericMethodExample.dll
