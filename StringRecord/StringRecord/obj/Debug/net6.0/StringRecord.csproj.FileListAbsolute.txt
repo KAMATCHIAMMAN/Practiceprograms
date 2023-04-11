@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\bin\Debug\net6.0\StringRecord.exe
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\bin\Debug\net6.0\StringRecord.deps.json
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\bin\Debug\net6.0\StringRecord.runtimeconfig.json
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\bin\Debug\net6.0\StringRecord.dll
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\bin\Debug\net6.0\StringRecord.pdb
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.dll
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\refint\StringRecord.dll
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.pdb
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\StringRecord.genruntimeconfig.cache
+C:\Users\ELCOT\source\repos\StringRecord\StringRecord\obj\Debug\net6.0\ref\StringRecord.dll
