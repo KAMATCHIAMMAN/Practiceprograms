@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\bin\Debug\net6.0\ValidIntervel.exe
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\bin\Debug\net6.0\ValidIntervel.deps.json
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\bin\Debug\net6.0\ValidIntervel.runtimeconfig.json
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\bin\Debug\net6.0\ValidIntervel.dll
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\bin\Debug\net6.0\ValidIntervel.pdb
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.dll
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\refint\ValidIntervel.dll
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.pdb
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ValidIntervel.genruntimeconfig.cache
+C:\Users\ELCOT\source\repos\ValidIntervel\ValidIntervel\obj\Debug\net6.0\ref\ValidIntervel.dll
