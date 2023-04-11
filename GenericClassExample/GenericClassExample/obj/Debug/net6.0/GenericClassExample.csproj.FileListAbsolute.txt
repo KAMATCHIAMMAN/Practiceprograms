@@ -1,0 +1,15 @@
+D:\GenericClassExample\GenericClassExample\bin\Debug\net6.0\GenericClassExample.exe
+D:\GenericClassExample\GenericClassExample\bin\Debug\net6.0\GenericClassExample.deps.json
+D:\GenericClassExample\GenericClassExample\bin\Debug\net6.0\GenericClassExample.runtimeconfig.json
+D:\GenericClassExample\GenericClassExample\bin\Debug\net6.0\GenericClassExample.dll
+D:\GenericClassExample\GenericClassExample\bin\Debug\net6.0\GenericClassExample.pdb
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.csproj.AssemblyReference.cache
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.AssemblyInfoInputs.cache
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.AssemblyInfo.cs
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.csproj.CoreCompileInputs.cache
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.dll
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\refint\GenericClassExample.dll
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.pdb
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\GenericClassExample.genruntimeconfig.cache
+D:\GenericClassExample\GenericClassExample\obj\Debug\net6.0\ref\GenericClassExample.dll
