@@ -1,0 +1,15 @@
+D:\StringWithAstric\StringWithAstric\bin\Debug\net6.0\StringWithAstric.exe
+D:\StringWithAstric\StringWithAstric\bin\Debug\net6.0\StringWithAstric.deps.json
+D:\StringWithAstric\StringWithAstric\bin\Debug\net6.0\StringWithAstric.runtimeconfig.json
+D:\StringWithAstric\StringWithAstric\bin\Debug\net6.0\StringWithAstric.dll
+D:\StringWithAstric\StringWithAstric\bin\Debug\net6.0\StringWithAstric.pdb
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.csproj.AssemblyReference.cache
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.GeneratedMSBuildEditorConfig.editorconfig
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.AssemblyInfoInputs.cache
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.AssemblyInfo.cs
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.csproj.CoreCompileInputs.cache
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.dll
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\refint\StringWithAstric.dll
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.pdb
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\StringWithAstric.genruntimeconfig.cache
+D:\StringWithAstric\StringWithAstric\obj\Debug\net6.0\ref\StringWithAstric.dll
