@@ -1,0 +1,15 @@
+D:\GroupTheAnagrams\GroupTheAnagrams\bin\Debug\net6.0\GroupTheAnagrams.exe
+D:\GroupTheAnagrams\GroupTheAnagrams\bin\Debug\net6.0\GroupTheAnagrams.deps.json
+D:\GroupTheAnagrams\GroupTheAnagrams\bin\Debug\net6.0\GroupTheAnagrams.runtimeconfig.json
+D:\GroupTheAnagrams\GroupTheAnagrams\bin\Debug\net6.0\GroupTheAnagrams.dll
+D:\GroupTheAnagrams\GroupTheAnagrams\bin\Debug\net6.0\GroupTheAnagrams.pdb
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.csproj.AssemblyReference.cache
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.AssemblyInfoInputs.cache
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.AssemblyInfo.cs
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.csproj.CoreCompileInputs.cache
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.dll
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\refint\GroupTheAnagrams.dll
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.pdb
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\GroupTheAnagrams.genruntimeconfig.cache
+D:\GroupTheAnagrams\GroupTheAnagrams\obj\Debug\net6.0\ref\GroupTheAnagrams.dll
