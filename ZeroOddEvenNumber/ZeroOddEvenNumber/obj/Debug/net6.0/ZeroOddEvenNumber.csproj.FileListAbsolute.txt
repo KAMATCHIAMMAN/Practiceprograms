@@ -1,0 +1,15 @@
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\bin\Debug\net6.0\ZeroOddEvenNumber.exe
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\bin\Debug\net6.0\ZeroOddEvenNumber.deps.json
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\bin\Debug\net6.0\ZeroOddEvenNumber.runtimeconfig.json
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\bin\Debug\net6.0\ZeroOddEvenNumber.dll
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\bin\Debug\net6.0\ZeroOddEvenNumber.pdb
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.csproj.AssemblyReference.cache
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.AssemblyInfoInputs.cache
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.AssemblyInfo.cs
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.csproj.CoreCompileInputs.cache
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.dll
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\refint\ZeroOddEvenNumber.dll
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.pdb
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ZeroOddEvenNumber.genruntimeconfig.cache
+D:\ZeroOddEvenNumber\ZeroOddEvenNumber\obj\Debug\net6.0\ref\ZeroOddEvenNumber.dll
