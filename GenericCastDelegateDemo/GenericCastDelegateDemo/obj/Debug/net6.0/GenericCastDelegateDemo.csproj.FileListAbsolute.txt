@@ -1,0 +1,15 @@
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.csproj.AssemblyReference.cache
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.AssemblyInfoInputs.cache
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.AssemblyInfo.cs
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.csproj.CoreCompileInputs.cache
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\bin\Debug\net6.0\GenericCastDelegateDemo.exe
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\bin\Debug\net6.0\GenericCastDelegateDemo.deps.json
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\bin\Debug\net6.0\GenericCastDelegateDemo.runtimeconfig.json
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\bin\Debug\net6.0\GenericCastDelegateDemo.dll
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\bin\Debug\net6.0\GenericCastDelegateDemo.pdb
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.dll
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\refint\GenericCastDelegateDemo.dll
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.pdb
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\GenericCastDelegateDemo.genruntimeconfig.cache
+D:\GenericCastDelegateDemo\GenericCastDelegateDemo\obj\Debug\net6.0\ref\GenericCastDelegateDemo.dll
