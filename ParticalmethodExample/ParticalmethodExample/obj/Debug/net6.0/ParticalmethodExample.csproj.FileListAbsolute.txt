@@ -1,0 +1,15 @@
+D:\ParticalmethodExample\ParticalmethodExample\bin\Debug\net6.0\ParticalmethodExample.exe
+D:\ParticalmethodExample\ParticalmethodExample\bin\Debug\net6.0\ParticalmethodExample.deps.json
+D:\ParticalmethodExample\ParticalmethodExample\bin\Debug\net6.0\ParticalmethodExample.runtimeconfig.json
+D:\ParticalmethodExample\ParticalmethodExample\bin\Debug\net6.0\ParticalmethodExample.dll
+D:\ParticalmethodExample\ParticalmethodExample\bin\Debug\net6.0\ParticalmethodExample.pdb
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.csproj.AssemblyReference.cache
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.AssemblyInfoInputs.cache
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.AssemblyInfo.cs
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.csproj.CoreCompileInputs.cache
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.dll
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\refint\ParticalmethodExample.dll
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.pdb
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ParticalmethodExample.genruntimeconfig.cache
+D:\ParticalmethodExample\ParticalmethodExample\obj\Debug\net6.0\ref\ParticalmethodExample.dll
