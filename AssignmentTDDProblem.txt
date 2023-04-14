@@ -1,0 +1,65 @@
+namespace DomainLogic
+{
+    public class CountBrackets
+    {
+        public string CompareBrackets(string Bracketstring)
+        {
+            int openbracket = 0;
+            int closebracket = 0;
+            for(int item=0;item<Bracketstring.Length;item++)
+            {
+                if(Bracketstring[item].Equals("["))
+                {
+                    openbracket=openbracket+1;
+                }
+                else
+                {
+                    closebracket=closebracket+1;
+                }
+
+            if (openbracket%2==0 && closebracket%2==0)
+            {
+                return "yes";
+            }
+            else
+                {
+                return "no";
+            }
+         
+        }
+    }
+}
+
+
+
+
+
+
+using DomainLogic;
+using FluentAssertions;
+namespace TDDtestingDemo
+{
+    public class BracketComparision
+    {
+        CountBrackets stringobject = new CountBrackets();
+        [Fact]
+        public void Compare_Equal_Brackets()
+        {
+            string InputString = "[[[]]]";
+            string expectedstring = "yes";
+            stringobject.CompareBrackets(InputString).Should().Be(expectedstring);
+            //Assert.Equal(expectedstring,stringobject.CompareBrackets(InputString));
+        }
+        
+        [Fact]
+       
+        public void Compare_Inequal_Bracket()
+        {
+            string InputString = "[][]][";
+            string expectedstring = "no";
+            //stringobject.CompareBrackets(InputString).Should().Be(expectedstring);
+            Assert.Equal(expectedstring, stringobject.CompareBrackets(InputString));
+        }
+       
+    }
+}
