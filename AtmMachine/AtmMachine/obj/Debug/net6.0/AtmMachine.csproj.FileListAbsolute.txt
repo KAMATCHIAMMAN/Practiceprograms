@@ -1,0 +1,15 @@
+D:\AtmMachine\AtmMachine\bin\Debug\net6.0\AtmMachine.exe
+D:\AtmMachine\AtmMachine\bin\Debug\net6.0\AtmMachine.deps.json
+D:\AtmMachine\AtmMachine\bin\Debug\net6.0\AtmMachine.runtimeconfig.json
+D:\AtmMachine\AtmMachine\bin\Debug\net6.0\AtmMachine.dll
+D:\AtmMachine\AtmMachine\bin\Debug\net6.0\AtmMachine.pdb
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.csproj.AssemblyReference.cache
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.AssemblyInfoInputs.cache
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.AssemblyInfo.cs
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.csproj.CoreCompileInputs.cache
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.dll
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\refint\AtmMachine.dll
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.pdb
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\AtmMachine.genruntimeconfig.cache
+D:\AtmMachine\AtmMachine\obj\Debug\net6.0\ref\AtmMachine.dll
