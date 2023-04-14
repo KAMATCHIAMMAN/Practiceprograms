@@ -1,0 +1,60 @@
+using Domain;
+using System;
+using FluentAssertions;
+namespace PrintingFuzzBuzz
+{
+    public class FuzzBuzzProblem
+    {
+        PrintSting integerone = new PrintSting();
+        [Fact]
+        public void Give_Number()
+        {
+            string expectedoutput = "Fuzz";
+            Assert.Equal(expectedoutput, integerone.NaturalNumber(6));
+   
+        }
+        [Fact]
+        public void Give_Buzz()
+        {
+            string expectedoutput = "Buzz";
+            Assert.Equal(expectedoutput, integerone.NaturalNumber(10));
+
+        }
+        [Fact]
+        public void Give_Fuzz_Buzz()
+        {
+            string expectedoutput = "FuzzBuzz";
+            Assert.Equal(expectedoutput, integerone.NaturalNumber(15));
+
+        }
+        [Fact]
+        public void Give_Fuzz()
+        {
+            string expectedoutput = "7";
+            Assert.Equal(expectedoutput, integerone.NaturalNumber(7));
+
+        }
+    }
+}
+
+
+namespace Domain
+{
+    public class PrintSting
+    {
+        public string NaturalNumber(int numberone)
+        {
+            if ((numberone % 3 == 0) && (numberone % 5==0))
+                return "FuzzBuzz";
+            if (numberone%3==0)
+                return "Fuzz";
+            if (numberone%5==0)
+                return "Buzz";
+            {
+                string stringone = numberone.ToString();
+                return stringone;
+            }
+        }
+        
+    }
+}
