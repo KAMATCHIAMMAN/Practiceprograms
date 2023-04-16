@@ -1,0 +1,141 @@
+using System.Security.Cryptography.X509Certificates;
+
+namespace RockPaperScisserBusinesscase
+{
+    public class RockPaperScissor
+    {
+        //public int highestscore;
+        //public RockPaperScissor(int highestscore)
+        //{
+        //    this.highestscore=highestscore;
+        //}
+
+        public string Find_The_Winner(string personone, string persontwo,string[]  persononechoices, string[] persontwochoices,ref int highestscore)
+        {
+            int persononescore = 0;
+            int persontwoscore = 0;
+            int length=persononechoices.Length;
+            for(int item=0; item<length; item++) 
+            {
+                if (persononechoices[item] == "ROCK" && persontwochoices[item] == "SCISSOR")
+                {
+                    persononescore++;
+                }
+                else if (persononechoices[item] == "ROCK" && persontwochoices[item] == "PAPER")
+                {
+                    persontwoscore++;
+                }
+                else if (persononechoices[item] == "PAPER" && persontwochoices[item] == "ROCK")
+                {
+                    persononescore++;
+                }
+                else if (persononechoices[item] == "PAPER" && persontwochoices[item] == "SCISSOR")
+                {
+                    persontwoscore++;
+                }
+                else if (persononechoices[item]== "SCISSOR" && persontwochoices[item] == "ROCK")
+                {
+                    persononescore++;
+                }
+                else if (persononechoices[item] == "SCISSOR" && persontwochoices[item] == "PAPER")
+                {
+                    persontwoscore++;
+                }
+                else
+                {
+                    continue;
+                }
+            }
+            if (persononescore>highestscore && persononescore>persontwoscore)
+            {
+                highestscore=persononescore;
+            }
+            if(persontwoscore>highestscore && persontwoscore>persononescore)
+            {
+                highestscore=persontwoscore;
+            }
+            if (persononescore>persontwoscore)
+            {
+                return personone;
+            }
+            else if(persononescore<persontwoscore)
+            {
+                return persontwo;
+            }
+            else
+            {
+                return "draw";
+            }
+        }
+    }
+
+   //public class HighestScore: RockPaperScissor
+   // {
+   //     public HighestScore(int highestscore):base(highestscore)
+   //     {
+   //           int GetHighestScore()
+   //         {
+   //             return highestscore;
+   //         }
+   //     }
+   // }
+
+}
+
+
+
+
+
+
+
+
+using System;
+using Xunit;
+using Xunit.Abstractions;
+using RockPaperScisserBusinesscase;
+using FluentAssertions;
+namespace TDDRockPaperScisserTesting
+{
+
+    public class RockPaperScissorTesting
+    {
+        //private readonly ITestOutputHelper output;
+
+        //public RockPaperScissorTesting(ITestOutputHelper output)
+        //{
+        //    this.output = output;
+        //}
+       
+        int highestscore=0;
+        RockPaperScissor choice= new RockPaperScissor();
+        string personone = "kamatchi";
+        string persontwo = "srimathi";
+        [Fact]
+        public void Userone_Winner()
+        {
+            string[] persononechoices = { "ROCK", "PAPER", "SCISSOR" };
+            string[] persontwochoices = { "SCISSOR", "ROCK", "PAPPER" };
+            Assert.Equal("kamatchi", choice.Find_The_Winner(personone,persontwo,persononechoices,persontwochoices,ref highestscore));
+            Console.WriteLine("kamatchi won the game");
+           // Assert.Equal(3, choice.GetHighestScore());
+        }
+        [Fact]
+        public void Usertwo_Winner()
+        {
+            string[] persononechoices = { "PAPER", "PAPER", "PAPER" };
+            string[] persontwochoices = { "SCISSOR", "ROCK", "SCISSOR" };
+            Assert.Equal(persontwo, choice.Find_The_Winner(personone, persontwo, persononechoices, persontwochoices,ref highestscore));
+
+        }
+        [Fact]
+        public void Match_Draw()
+        {
+            string[] persononechoices = { "PAPER", "PAPER", "SCISSOR" };
+            string[] persontwochoices = { "PAPER", "PAPER", "SCISSOR" };
+            Assert.Equal("draw", choice.Find_The_Winner(personone, persontwo, persononechoices, persontwochoices,ref highestscore));
+
+        }
+    }
+}
+
+
