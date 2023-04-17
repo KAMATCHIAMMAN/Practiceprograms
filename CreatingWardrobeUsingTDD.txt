@@ -1,0 +1,62 @@
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+namespace wardrobeBusinesscase
+{
+    public class WardrobeMinimumamount
+    {
+        public int Minmumamount(int[] lengthoftheelements)
+        {
+
+            Hashtable lengthandamount = new Hashtable();
+            int[] amount = { 59, 62, 90, 111 };
+            for(int item =0;item<lengthoftheelements.Length;item++)
+            {
+                lengthandamount.Add(lengthoftheelements[item], amount[item]);
+            }
+            //POSIBILITIES TO BUILD THE WARDROBE
+            //TOTAL LENGTH ==250
+
+            //50 * 5 ==250
+            //50*3+100==250
+            //50+100*2 ==250
+            //75*2+100 ==250
+
+            //defult 120cm needed 4 times to divide the wardrobe
+            int[] totalamount= new int[4];
+            totalamount[0]=Convert.ToInt32(lengthandamount[50])*5+111*4;
+            totalamount[1]=Convert.ToInt32(lengthandamount[50])*3+Convert.ToInt32(lengthandamount[100])+111*4;
+            totalamount[2]=Convert.ToInt32(lengthandamount[50])+Convert.ToInt32(lengthandamount[100])*2+111*4;
+            totalamount[3]=Convert.ToInt32(lengthandamount[75])*2+Convert.ToInt32(lengthandamount[100])+111*4;
+            int Minimumamunt = totalamount.Min();
+            return Minimumamunt;
+        }
+    }
+}
+
+
+
+
+
+using wardrobeBusinesscase;
+using System.Collections;
+using FluentAssertions;
+namespace WardrobeCreationTest
+{
+    public class WardrobeTesting
+
+    {
+        WardrobeMinimumamount minamount = new WardrobeMinimumamount();
+        int[] lengthoftheelements = { 50, 75, 100, 120 };
+        [Fact]
+        public void Minimum_Amount_To_Build()
+        {
+            minamount.Minmumamount(lengthoftheelements).Should().Be(658);
+        }
+        [Fact]
+        public void Not_A_Maximum_Amount_To_Build()
+        {
+            minamount.Minmumamount(lengthoftheelements).Should().Be(730);
+        }
+    }
+}
