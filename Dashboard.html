@@ -1,0 +1,118 @@
+<html>
+  <body>
+ <title>General Details</title>
+        <style>
+            .body{
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+            }
+            h1{
+                font-size: 60px;
+            }
+            h2{
+                font-size: 40px;
+            }
+            h3{
+                 font-size:20;
+            }
+            p
+            {
+               font-size:30;
+           }
+           .button {
+      background-color: #000000;
+      color: white;
+      padding: 14px 28px;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;
+      border-radius: 15%;
+      position: absolute;
+     top: 250%;
+    left: 50%;
+    }
+        </style>
+    </head> 
+    <Body background="photo.png" style="background-repeat:no-repeat;background-size:100% 100%">
+    <div class="login">
+        <center><h1>General Details</h1></center>
+        <h2>Please enter the following details</h2><hr><br>
+    <form>
+  <p>Personal Details:</p>
+ 
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname" placeholder="First Name" >&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"  placeholder="Last Name" ><br>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+
+  <label for="email">Email:</label>
+<input type="email" id="email" required  placeholder="email">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <label for="number">Phone Number:</label>
+<input type="number" id="number" required max="10"  placeholder="PhoneNumber">
+
+
+<p>Gender:</p>
+  <input type="radio" id="g1" name="male" value="male">
+  <label for="male">Male</label><br>
+  <input type="radio" id="g2" name="female" value="female">
+  <label for="female">Female</label><br>
+  <input type="radio" id="g3" name="others" value="others">
+  <label for="others">Others</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+  <p>Profession:</p>
+    <select name="profession" id="profession">
+    <option value="profession" disabled>select profession</option>
+    <option value="student">Student</option>
+    <option value="engineer">Engineer</option>
+    <option value="advocate">Advocate</option>
+    <option value="doctor">Doctor</option>
+    <option value="accountant">Accountant</option>
+  </select>
+  
+  <p>Food choice:</p>
+  <input type="radio" id="food1" name="veg" value="veg">
+  <label for="veg">Veg</label><br>
+  <input type="radio" id="food2" name="nonveg" value="nonveg">
+  <label for="pl2">Non Veg</label><br>
+  <input type="radio" id="food3" name="vegan" value="vegan">
+  <label for="pl3">Vegan</label>
+    
+     
+  <p>Favorite Food:</p>
+  <input type="text" id="favfood" name="favfood"><br>
+     
+  <p>Programming Languages: </p>  
+  <input type="checkbox" id="pl1" name="pl1" value="java">
+  <label for="pl1">Java</label><br>
+  <input type="checkbox" id="pl2" name="pl2" value="python">
+  <label for="pl2">Python</label><br>
+  <input type="checkbox" id="pl3" name="pl3" value="C/C++">
+  <label for="pl3">C/C++</label><br>
+  <input type="checkbox" id="pl4" name="pl4" value="C#">
+  <label for="pl4">C#</label><br>
+  <input type="checkbox" id="pl5" name="pl5" value="javascript">
+  <label for="pl3">Javascript</label><br>
+  <input type="checkbox" id="pl6" name="pl6" value="php">
+  <label for="pl6">PHP</label><br>
+  <input type="checkbox" id="pl7" name="pl7" value="swift">
+  <label for="pl7">Swift</label><br>
+  <input type="checkbox" id="pl8" name="pl8" value="kotlin">
+  <label for="pl8">Kotlin</label><br>
+     
+  <p>Language Proficiency:</p>
+    <input type="radio" id="first" name="One" value="One">
+  <label for="pl1">One</label><br>
+  <input type="radio" id="second" name="Two" value="Two">
+  <label for="pl2">Two</label><br>
+  <input type="radio" id="third" name="Third" value="Third">
+  <label for="pl3">Third</label><br>
+     
+     
+  <p>Hobbies:</p>
+  <textarea row="5" cols="50"></textarea>
+  <button type="submit" class="button">Submit</button>
+  </form>
+  </body>
+</html>
