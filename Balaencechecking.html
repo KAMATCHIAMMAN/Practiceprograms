@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<title>Balance checking</title> 
+<body>
+<h1><center>Balance Checking</center></h1>
+<p>Welcome to Indian Bank</p>
+<p id="demo"></p>
+
+<script>
+class Currentsaccount {
+  constructor(balance,name) {
+    this.balance=balance;
+    
+  }
+  present() {
+    return this.name+'Your cuurent account balaence is your balance'+ this.balance;
+  }
+}
+
+class Savingsaccount extends Currentsaccount {
+  constructor(interestpercentage,year) {
+    super(balance,name);
+    this.interestpercentage=interestpercentage;
+    this.year=year;
+  }
+  show() {
+    balance=balance+(balance*interestpercentage*year)/100;
+    return this.present() + this.name+ ', Your savingsaccount balance is ' + this.balance;
+  }
+}
+
+const myaccount = new Savingsaccount("50000","kamatchi",10,2);
+document.getElementById("demo").innerHTML ="hii";
+
+</script>
+</body>
+</html>
