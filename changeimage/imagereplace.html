@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>The parentchildNode Property</h2>
+
+<div id="parent" style="background:coral; padding:16px;">
+<img  id ="myLI" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPgbhRh7IVIGhyuvG6vS1LAH6ySbII-u-6A&usqp=CAU">
+<img  id ="class1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuFlzj3PDQjyWeQNigc8ly2OAkcXBbH-A49hlZnAN6Ez_Qxe9IhF_tEWN8V8nUd-iXKUo&usqp=CAU">
+
+</div>
+<p>The node name of the parent node of "myLI" is:</p>
+<p id="demo"></p>
+
+<p>The number of child nodes are":</p>
+<p id="demo1"></p>
+
+<h3>Click "Replace" to replace the first item in the the list.</h3>
+
+<button onclick="myFunction()">"Replace"</button>
+
+<script>
+
+let name = document.getElementById("myLI").parentNode.nodeName;
+document.getElementById("demo").innerHTML = name;
+
+
+const element = document.getElementById("parent");
+let numb = element.childNodes.length;
+document.getElementById("demo1").innerHTML = numb;
+
+
+let lastname = document.getElementById("Class1").lastChild.innerHTML;
+document.getElementById("demo1").innerHTML = lastname;
+
+function myFunction() {
+let element = document.getElementById("myList").children[0];
+let newNode = document.createElement("https://image.shutterstock.com/image-photo/large-beautiful-drops-transparent-rain-260nw-668593321");
+element.replaceChild(newNode, element.childNodes[0]);
+}
+</script>
+</body>
+</html>

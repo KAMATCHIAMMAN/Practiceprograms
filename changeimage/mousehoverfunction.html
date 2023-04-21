@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>mouseover & mouseevents </title>
+<script type="text"/javascript">
+function setNewImage()
+{
+document.getElementById("img1").src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwRFpKK03bBgLh65tQjvFHMa0zpt4aFk7u4hM7tJlmugeod5UaKIWnD7XD36aesgN6fPQ&usqp=CAU" ;
+}
+function setOldImage()
+{
+document.getElementById("img1").src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPgbhRh7IVIGhyuvG6vS1LAH6ySbII-u-6A&usqp=CAU";
+}
+</script>
+</head>
+<body>
+<img id="img1" onmouseover="setNewImage()"  onmouseout= "setOldImage()" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPgbhRh7IVIGhyuvG6vS1LAH6ySbII-u-6A&usqp=CAU"  width ="500"/>
+</body>
+</html>
+       
