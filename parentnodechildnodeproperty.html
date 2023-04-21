@@ -1,0 +1,56 @@
+<html>
+<head>
+</head>
+<body id="sibling">
+<div id="parent">
+<h5 id="h5"></h5>
+       <div id="One"><p>This is my Child one </p>
+	   <button id="child1">ChildOne</button>
+       </div>
+      <div id="Two"><p>This is my child two</p>
+       	  <h1>I am second child</h1>
+       </div>
+       <div id="Three"><p>This is my child three</p>
+	 <h2>I am third child</h2>
+       </div>
+       <div id="Four"><p>This is my child four</p>
+       </div>
+       <div id="Five"><p>This is my fivth child</p>
+       </div>
+<h2>I am the sibiling</h2>
+<script>
+	document.getElementById("child1").addEventListener("click", message);
+	function message() {
+	  alert("Hi Im first child");
+}
+
+/*let a = document.getElementsByTagName("div");
+document.getElementById("h5").innerHTML = a[0].innerHTML;*/
+
+let s= document.getElementById("Five").innerHTML.parentNode.nodeValue;
+document.getElementById("h4").innerHTML=s.parentNode;
+console.log(s);
+
+let myfirstchild= a.firstChild;
+let sib=document.getElementById("parent").previousSibling.text;
+console.log(sib);
+
+let b= a.firstChild;
+let last= a.lastChild;
+console.log("Last",last);
+console.log("Parent",a);
+console.log("FirstChild",myfirstchild);
+document.getElementById("Five").innerHTML = document.body.innerHTML;
+document.getElementById("Three").innerHTML = document.getElementById("Four").nodeType;
+
+let d=a.lastChild;
+console.log(d);
+
+let e = document.getElementById("Four").nextSibling;
+let f = document.getElementById("Five").previousSibling
+let g = document.getElementById("parent").innerHTML;
+console.log(g);
+
+</script>
+</body>
+</html>

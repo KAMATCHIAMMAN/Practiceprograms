@@ -1,0 +1,55 @@
+<html>
+<body>
+<script>
+let mapexample= new Map();
+mapexample.set("tamil",100);
+mapexample.set("english",99);
+mapexample.set("maths",98);
+mapexample.set("science",97);
+mapexample.set("social",96);
+mapexample.forEach(function(v,k){console.log(v,k)});
+
+console.log(mapexample.has("tamil"));
+
+console.log(mapexample.delete("social"));
+console.log("Is social in the map ??");
+console.log(mapexample.has("social"));
+
+mapexample.clear();
+console.log("After deleting length of the map is :");
+console.log(mapexample.size);
+
+
+
+let setexample=new Set();
+setexample.add(100);
+setexample.add(99);
+setexample.add(88);
+setexample.add(77);
+setexample.add(66);
+
+console.log(setexample);
+for(let i of setexample) { 
+console.log("Addition");
+console.log(i+10);
+console.log("Subtraction");
+console.log(i-10); 
+}
+console.log(setexample.has(100));
+console.log(setexample.delete(100));
+console.log(setexample.has(100));
+console.log(setexample);
+
+console.log(setexample.values());
+
+console.log("Type of the set is:");
+console.log(typeof setexample);
+
+setexample.clear();
+console.log(setexample);
+
+
+
+</script>
+</body>
+</html>
