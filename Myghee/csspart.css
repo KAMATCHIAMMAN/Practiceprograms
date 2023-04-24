@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-;
+    font-family: 'Poppins',sans-serif;
+}
+/*
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background: url("https://i.pinimg.com/originals/15/b9/0e/15b90e0d439d50b8c36076f57c5805ce.jpg") no-repeat;
+}
+*/
+body
+{
+    background-color: rgb(219, 219, 105);
+}
+header{
+    position: fixed;
+    left:-100px;
+    right:20px;
+    width:100%;
+    padding:20px 100px;
+    display:flex;
+    background:black;
+    justify-content: space-between;
+    align-items: center;
+    z-index:16;
+}
+
+
+.navigation a{
+    position: center;
+    font-size : 1.1em;
+    color:#fff;
+    text-decoration:none;
+    font-weight:500;
+    margin-left:400px;
+
+}
+
+.navigation .btnHome-popup{
+    width:130px;
+    height:50px;
+    background :transparent;
+    border:2px solid #fff;
+    outline:none;
+    border-radius: 6px;
+    cursor:pointer;
+    font-size: 1.1em;
+    color:#fff;
+    font-weight: 500;
+    margin-left:40px;
+    transition:.5s;
+
+}
+
+
+.navigation .btnHome-popup:hover{
+    background: #fff;
+    color: #162938;
+}
+.navigation .btnAbout-popup{
+    width:130px;
+    height:50px;
+    background :transparent;
+    border:2px solid #fff;
+    outline:none;
+    border-radius: 6px;
+    cursor:pointer;
+    font-size: 1.1em;
+    color:#fff;
+    font-weight: 500;
+    margin-left:40px;
+    transition:.5s;
+
+}
+.navigation .btnAbout-popup:hover{
+    background: #fff;
+    color: #162938;
+}
+
+.navigation .btnServices-popup{
+    width:130px;
+    height:50px;
+    background :transparent;
+    border:2px solid #fff;
+    outline:none;
+    border-radius: 6px;
+    cursor:pointer;
+    font-size: 1.1em;
+    color:#fff;
+    font-weight: 500;
+    margin-left:40px;
+    transition:.5s;
+
+}
+
+.navigation .btnServices-popup:hover{
+    background: #fff;
+    color: #162938;
+}
+
+.navigation .btnContact-popup{
+    width:130px;
+    height:50px;
+    background :transparent;
+    border:2px solid #fff;
+    outline:none;
+    border-radius: 6px;
+    cursor:pointer;
+    font-size: 1.1em;
+    color:#fff;
+    font-weight: 500;
+    margin-left:40px;
+    transition:.5s;
+
+}
+
+.navigation .btnContact-popup:hover{
+    background: #fff;
+    color: #162938;
+}
+
+.navigation .btnLogin-popup{
+    width:130px;
+    height:50px;
+    background :transparent;
+    border:2px solid #fff;
+    outline:none;
+    border-radius: 6px;
+    cursor:pointer;
+    font-size: 1.1em;
+    color:#fff;
+    font-weight: 500;
+    margin-left:40px;
+    transition:.5s;
+
+}
+
+.navigation .btnLogin-popup:hover{
+    background: #fff;
+    color: #162938;
+}
+
+.form-box{
+    width:90%;
+    max-width: 450px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,50%);
+    background: #fff;
+    padding: 50px 60px 70px;
+    text-align:center;
+}
+
+.form-box h1{
+    font-size:30px;
+    margin-bottom:60px;
+    color:#3c00a0;
+    position: relative;
+}
+
+.form-box h1::after{
+    content: '';
+    width: 30px;
+    height: 4px;
+    border-radius: 3px;
+    background:#3c00a0;
+    position: absolute;
+    bottom: -12px;
+    left:50%;
+    transform:translatex(-50%);
+}
+.input-field{
+    background: #eaeaea;
+    margin: 15px 0;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    max-height: 65px;
+    transition: max-height 0.5s;
+    overflow: hidden;
+}
+
+input{
+    width: 100%;
+    background: transparent;
+    border:0;
+    outline: 0;
+    padding: 18px 15px;
+}
+
+.input-field i{
+    margin-left: 15px;
+    color:#999;
+}
+
+form p{
+    text-align: left;
+    font-size: 13px;
+}
+
+form p a{
+    text-decoration: none;
+    color: #3c00a0;
+}
+
+.btn-field{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}
+
+.btn-field button{
+    flex-basis: 48%;
+    background: #3c00a0;
+    color: #fff;
+    height: 40px;
+    border-radius: 20px;
+    border:0;
+    outline: 0;
+    cursor: pointer;
+    transition: background 1s;
+}
+
+.input-group
+{
+    height: 280px;
+}
+
+
+.btn-field button.disable
+{
+    background: #eaeaea;
+    color: #555;
+}
